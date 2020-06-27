@@ -16,7 +16,7 @@
 
 我的网站是 [我的官网](https://wangcan.com)
 
-![Markdown语法入门](3-Markdown语法入门.png)
+![图片1](1.png)
 
 ```javascript
 console.log('hello')
